@@ -1,0 +1,11 @@
+apresentacao
+ - Comeca com Jasmine falando de BDD
+  - (Mostra sobrenome) funcao que retorna o sobrenome
+    - exemplo basico de funcionamento (cenario perfeito)
+    - exemplo mais elaborado nomes com espacos em branco no final
+    - nomes com espacos em branco no inicio
+    
+  
+  Verificar outros frameworks de test para JavaScript
+  JSpec
+  JSSpec
