@@ -19,3 +19,7 @@ Usuario.prototype.sobrenome = function(){
   this.nome = this.nome.replace(/[' ']*$/,'');
   return this.nome.split(" ").pop();
 };
+
+Usuario.prototype.autentica = function(senha){
+  
+};
