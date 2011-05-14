@@ -23,6 +23,6 @@ describe('Usuario', function(){
     expect(function(){user.sobrenome();}).toThrow(
       new Error('Usuario sem nome'));
   });
-  
+    
   
 });
