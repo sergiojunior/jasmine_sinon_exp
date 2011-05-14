@@ -18,3 +18,7 @@ Conta.prototype.bloquear = function(){
 Conta.prototype.desBloquear = function(){
   return this.bloqueada = false;
 };
+
+Conta.prototype.descontarTarifa = function(tarifa){
+  return this.saca(tarifa);
+};
